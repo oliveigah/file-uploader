@@ -1,0 +1,6 @@
+<h1> Carregando arquivo: <%= @file_name %></h1>
+<section class="row">
+  <article class="column">
+    <div id="messages" role="log" aria-live="polite"></div>
+  </article>
+</section>
